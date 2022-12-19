@@ -1,4 +1,4 @@
-# STM Proje GelistirmeSeti -STM32F103C8T6-
+# STM Proje Gelistirme Seti -STM32F103C8T6-
 
 ![image](https://user-images.githubusercontent.com/111511331/208356082-50220245-3ff9-4ed8-adaf-27976a1dc3f3.png)
 
