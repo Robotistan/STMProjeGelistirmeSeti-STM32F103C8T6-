@@ -46,4 +46,15 @@ Anlattığım bağlantıların hepsini alt tarafta bulunan devre şemasında bul
  
 * 3. Adım: 
  
+ Dosyamızın adı "generic_boot20_pb12.bin" Dosyayı bilgisayarımıza kaydediyoruz.
  
+*  4. Adım:
+
+Ekran görüntülerini aşağıda verdim. Sırası ile işlemleri gerçekleştiriyoruz. Ancak port name kısmı önemli. Sizde kaç nolu porta bağlı ise o değerin orada yazması gerekli.Her adımı next diyerek geçiyoruz. Ancak 3 adımda 128k ve 64k ilgili bir seçenek var. Ben 64K olarak yoluma devam ettim.
+
+* 5. Adım:
+
+Yeşil renkli ifadeyi gördüyseniz işlemleri başarılı bir biçimde tamamlamışsınızdır 
+
+![image](https://user-images.githubusercontent.com/111511331/208393652-7f350c6b-5126-40cc-bf96-c92be95c06e3.png)
+
