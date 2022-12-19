@@ -36,6 +36,19 @@
 * [Mini USB Kablo](https://www.robotistan.com/usb-mini-b-kablo)	
 * [Mikro USB Kablo](https://www.robotistan.com/mikro-usb-kablo-1)
 
+# STM32F103C8T6 Nerelerde Kullanılır?
+* Motor sürücüleri
+* Uygulama kontrollerinde
+* Tıbbi el ekipmanlarında
+* PC ve oyun çevre birimlerinde
+* GPS platformları
+* Endüstriyel uygulamalar
+* PLC’ler
+* Maker Sektörü 
+* İnvertörler
+* Yazıcılar ve tarayıcılar
+* Alarm sistemleri gibi bir çok alanda kullanılmaktadır.
+
 # Blog ve Daha Fazlası
 
 - Daha fazla ders ve proje için [Maker](https://maker.robotistan.com/kategori/arduino/) sitemizde yer alan Projelere de göz atabilirsiniz.
