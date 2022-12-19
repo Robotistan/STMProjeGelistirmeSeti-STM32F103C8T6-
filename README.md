@@ -62,7 +62,7 @@
 
 # Blog ve Daha Fazlası
 
-- Daha fazla ders ve proje için [Maker](https://maker.robotistan.com/kategori/arduino/) sitemizde yer alan Projelere de göz atabilirsiniz.
+- Maker Sayfamızda [STM32F103C8T6 Nedir? Özellikleri Nelerdir? STM32 ST-LINK Utility Nasıl Kullanılır?](https://maker.robotistan.com/stm32f103c8t6-nedir-ozellikleri-nelerdir-stm32-st-link-utility-nasil-kullanilir/) detaylı bir blog yazısı bulunmaktadır. Daha fazla ders ve proje için [Maker](https://maker.robotistan.com/kategori/arduino/) sitemizde yer alan Projelere de göz atabilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/111511331/208359947-fa838c6f-0d40-4348-8f04-af9e98a5b148.png)
 
