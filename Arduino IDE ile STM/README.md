@@ -12,4 +12,4 @@
 
 ![image](https://user-images.githubusercontent.com/111511331/208399653-ef22d14e-bb40-4c9e-a434-4e77bfdc2ef0.png)
 
-* Artık Arduino ile kodlamaya hazırdır.
+* Artık Arduino IDE ile kodlamaya hazırdır.
