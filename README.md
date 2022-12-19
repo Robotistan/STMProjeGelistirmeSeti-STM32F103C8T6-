@@ -5,6 +5,16 @@
 
 * STM32F103C8T6 STMicroelectronics’in üretmiş olduğu ARM Cortex-M3 çekirdeğine sahip ve maksimum 72MHz’de çalışan bir geliştirme kartıdır. Bu geliştirme kartına genelde Blue Pill’ de denmektedir. ARM Cortex-M3 RISC mimarisiyle çalışmaktadır. 128Kbyte kadar Flash Memory(Flash Bellek) ve 20 Kbyte kadar da SRAM içermektedir.
 
+- Mikrocontroler(Mikrodenetleyici) = STM32F103C86T
+- Operation Voltage(Çalışma Gerilimi) = 	3.3V
+- Analog Inputs(Analog Girişler) = 10
+- Digital I/O Pins(Dijital Giriş Çıkışlar) = 37
+- DC Source/sink from I/O Pins = 6mA
+- Flash Memory(KB) = 64/128
+- SRAM(KB) = 20
+- Frequency Clock Speed(Saat Hızı) = 72Mhz Maksimum
+- Communication(İletişim) = I2C,SPI,UART,CAN,USB
+
 ### STM32F103C8T6 Pinout
 ![image](https://user-images.githubusercontent.com/111511331/208356242-9c805e62-2623-4716-a866-33ae04f83939.png)
 
