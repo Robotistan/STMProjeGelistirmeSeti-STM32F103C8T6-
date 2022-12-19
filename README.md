@@ -37,6 +37,7 @@
 * [Mikro USB Kablo](https://www.robotistan.com/mikro-usb-kablo-1)
 
 # STM32F103C8T6 Nerelerde Kullanılır?
+
 * Motor sürücüleri
 * Uygulama kontrollerinde
 * Tıbbi el ekipmanlarında
