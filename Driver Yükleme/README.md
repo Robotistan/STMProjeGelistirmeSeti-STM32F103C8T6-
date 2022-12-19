@@ -42,4 +42,4 @@ Anlattığım bağlantıların hepsini alt tarafta bulunan devre şemasında bul
 
  Flashlama işlemi için kullanacağımız programı indirmemiz gerek. Kısa linkten veya [buraya](https://drive.google.com/file/d/1ZsYjYk7DqLrYJffja0JJjsQ6FVKB-rBV/view) tıklayarak FLASHER-STM32 adlı programı indirip kuruyoruz.
  
- Hps://www.kisa.link/Ou34
+ Https://www.kisa.link/Ou34
