@@ -10,6 +10,8 @@
 
 ### Paket İçeriği
 
+![image](https://user-images.githubusercontent.com/111511331/208358970-5b9c3896-8765-46fc-aebd-5ac6b693b67d.png)
+
 * [STM32F103C8T6 Geliştirme Kartı](https://www.robotistan.com/stm32f103c8t6-gelistirme-karti)	
 * [RTC Modül - DS1302 Gerçek Zamanlı Saat Devresi Modülü](https://www.robotistan.com/ds1302-gercek-zamanli-saat-devresi-modulu-rtc-modulu)	
 * [HC06 Bluetooth-Serial Modül Kartı](https://www.robotistan.com/kablolu-hc06-bluetooth-serial-modul-karti-hc06-bluetooth-to-serial-port-m)	
@@ -33,3 +35,16 @@
 * [Çok Amaçlı Bölmeli Malzeme Kutusu - Şeffaf ASR-5017](https://www.robotistan.com/cok-amacli-bolmeli-malzeme-kutusu-seffaf-asr-5017)
 * [Mini USB Kablo](https://www.robotistan.com/usb-mini-b-kablo)	
 * [Mikro USB Kablo](https://www.robotistan.com/mikro-usb-kablo-1)
+
+# Blog ve Daha Fazlası
+
+- Daha fazla ders ve proje için [Maker](https://maker.robotistan.com/kategori/arduino/) sitemizde yer alan Projelere de göz atabilirsiniz.
+
+![image](https://user-images.githubusercontent.com/111511331/208359947-fa838c6f-0d40-4348-8f04-af9e98a5b148.png)
+
+## Not
+
+- Herhangi bir sorunuz olursa, lütfen [Robotistan Topluluğumuzdan](https://forum.robotistan.com/) teknik destek ekibi ile iletişime geçin.
+- Set içeriğinde yer alan Breadboard (Orta Boy) ürünü stok durumuna göre görselden farklılık gösterebilir. Sağ ve solda yer alan power (güç) hatları tek ya da çift olabilir. Kullanım açısından herhangi bir sorun teşkil etmemektedir.
+
+
