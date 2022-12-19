@@ -46,7 +46,7 @@ Anlattığım bağlantıların hepsini alt tarafta bulunan devre şemasında bul
  
 * 3. Adım: 
  
- Dosyamızın adı "generic_boot20_pb12.bin" Dosyayı bilgisayarımıza kaydediyoruz.
+ Bootloader dosyasını indiriyoruz. [Buraya](https://github.com/Robotistan/STMProjeGelistirmeSeti-STM32F103C8T6-/blob/main/Driver%20Y%C3%BCkleme/generic_boot20_pc13.bin) tıklayarak indirebilirsiniz.Dosyamızın adı "generic_boot20_pb12.bin" Dosyayı bilgisayarımıza kaydediyoruz.
  
 *  4. Adım:
 
